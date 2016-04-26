@@ -1,0 +1,15 @@
+{
+	"facebook":{
+		"url":""
+	},
+	"forum":{
+		"url":""
+	},
+	"teamspeak":{
+		"server":""
+	},
+	"discord":{
+		"server":"",
+		"widget_url":""
+	}
+}

@@ -58,7 +58,7 @@
 								<li><a href="map/" target="_blank">Map</a></li>
 							</ul>
 						</li>
-						<li><a href="chat.php"><?php echo $SITECONF->name ?> Community</a></li>
+						<li><a href="community.php"><?php echo $SITECONF->name ?> Community</a></li>
 					</ul>
 					<!-- TODO: Authenticate Users via Minecraft
 					<form class="navbar-form navbar-right">

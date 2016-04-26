@@ -1,11 +1,12 @@
 {
-	"title": "Minecraft Site",
-	"name": "Minecraft",
+	"title":"Minecraft Site",
+	"name":"Minecraft",
 	"urls":{
-			"www":"http://pauanui.ddns.net:91",
-			"www_internal":"http://localhost:91"
-		},
-	"icon": "images/server-icon.png",
-	"icon_30": "images/server-icon_30.png",
-	"copyright": "&copy; 2016 somesite."
+		"www":"http://pauanui.ddns.net:91",
+		"www_internal":"http://localhost:91"
+	},
+	"path":"/var/www/mcsite/",
+	"icon":"images/server-icon.png",
+	"icon_30":"images/server-icon_30.png",
+	"copyright":"&copy; 2016 somesite."
 }
