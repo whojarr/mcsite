@@ -1,6 +1,8 @@
 # mcsite
 Minecraft website using open apis and transferred config files from various spigot plugins
 
+tested on centos 6.5 and 7
+
 ## Apache Setup
 copy the file etc/http/conf.d/mcsite.conf to /etc/httpd/conf.d/mcsite.conf
 and update the ports and aliases to suite
