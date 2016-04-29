@@ -9,4 +9,5 @@ and update the ports and aliases to suite
 ```bash
 sudo chown apache html/images/admin_images
 sudo chown apache html/images/player_images
+sudo chown apache html/data/players_online
 ```
