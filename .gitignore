@@ -1,4 +1,6 @@
 .git
 .buildpath
 .project
+error.log
+requests.log
 
