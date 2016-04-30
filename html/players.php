@@ -11,6 +11,7 @@
 	foreach (scandir($players_dir) as $file) {
 		if ('.' === $file) continue;
 		if ('..' === $file) continue;
+		if ('.gitignore' === $file) continue;
 		$player_files[] = $file;
 		$player_file = fopen($players_dir . '/' . $file, 'r');
 		$player_json_string = fread($player_file,filesize($players_dir . '/' . $file));
